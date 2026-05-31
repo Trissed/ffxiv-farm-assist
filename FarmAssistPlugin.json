@@ -1,0 +1,13 @@
+{
+  "Author": "Trissed",
+  "Name": "Farm Assist",
+  "InternalName": "FarmAssist",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Check up all prices for dungeons to get some nice and good drop",
+  "ApplicableVersion": "any",
+  "Tags": ["price", "market", "universalis", "farming"],
+  "DalamudApiLevel": 15,
+  "LoadPriority": 0,
+  "IconUrl": "",
+  "Punchline": "Be in check for dungeon loot prices!"
+}
